@@ -36,7 +36,10 @@ Acesse o repositório completo no <a href="https://github.com/Aladark/JOGO-.git"
     
 ## 🛣️ Como Executar o Projeto
 
-
+1. **Acessar o reporitoria e baixar os arquivos**
+2. ** Para pasta zip. cirado extralia para algum lugar na sua máquina**
+3. ** Depois de baixar e extrair o arquivo todos os outros aquvidos zip que estiverem nesta pasta devem ser extraindos para sua raiz**
+4. ** tendo termidado a extraçaõ de arquivos o proxima parte seria apenas excluir suas verções zip e depois iniciar o jogo que seira o arquivo .exe** 
 
 
 ## Interagindo com o Projeto
