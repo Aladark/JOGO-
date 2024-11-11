@@ -32,7 +32,7 @@ O projeto explora a programação eventos  e a utilização do C# em um jogo de 
 ---
 1. **Navegador da Web**: Tenha um navegador instalado, como Google Chrome, Mozilla Firefox ou Safari.
 2. **Acessar o Repositoria no Github* e baixar o jogo.
-3.  **Assim como acessar o site*
+3.  **Assim como acessar o site*.
     
 ## 🛣️ Como Executar o Projeto
 
