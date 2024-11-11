@@ -19,7 +19,7 @@
 O projeto explora a programação eventos  e a utilização do C# em um jogo de espaço nave, uma linguagem voltada para criaçaõ de jogos e  resolução de problemas. A interface e o desing e feito em com ajuda do Unity, garantindo uma apresentação moderna e interativa, com exemplos e explicações detalhadas dos principais conceitos.
 
 ## 📂 Projetos em C#
-<p>Este repositório contém os seguintes projetos implementados em <b>Prolog</b></p>
+<p>Este repositório contém os seguintes projetos implementados em <b>C#</b></p>
 <li>D3D12</li>
 <li>Infinity Space.exe</li>
 <li>Infinity Space_Data.zip</li>
