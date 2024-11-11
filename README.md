@@ -26,7 +26,7 @@ O projeto explora a programação eventos  e a utilização do C# em um jogo de 
 <li>MonoBleedingEdge.zip</li>
 <li>UnityCrashHandler64.exe</li>
 <li>UnityPlayer.zip</li>
-Acesse o repositório completo no <a href="https://github.com/Aladark/JOGO-.git" title="Github">GitHub
+
 
 ### PRÉ-REQUISITO
 ---
