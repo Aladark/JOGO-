@@ -1,14 +1,14 @@
 
 
 <h4 align="center"> 
-	🚧 Paradigma de Programação Lógico - Prolog 🚧
+	🚧 Paradigma de Programação De Eventos🚧
 </h4>
 <p align="center">
 	<img alt="Status Em Andamento" src="https://img.shields.io/badge/STATUS-CONCLU%C3%8DDO-brightgreen">
 </p>
 
 ## Descrição do Projeto
-<p align="center">Este repositório foi criado para a apresentação de um projeto acadêmico sobre o <b>paradigma de programação lógico</b>, utilizando a linguagem <b>Prolog</b>. Além do código em Prolog, o projeto inclui um site com <b>HTML, CSS e JavaScript</b> para documentar e apresentar os conceitos abordados.</p>
+<p align="center">Este repositório foi criado para a apresentação de um projeto acadêmico sobre o <b>paradigma de programação Eventos</b>, utilizando a linguagem <b>C#</b>. Além do código em unity , o projeto inclui um site com <b>HTML, CSS e JavaScript</b> para documentar e apresentar os conceitos abordados.</p>
 
 # :hammer: Funcionalidades do projeto
 
@@ -20,26 +20,22 @@
 ## 🚀 Sobre o Projeto
 O projeto explora a programação lógica e a utilização do Prolog, uma linguagem voltada para inteligência artificial e resolução de problemas lógicos. A interface web é desenvolvida com **Bootstrap**, garantindo uma apresentação moderna e interativa, com exemplos e explicações detalhadas dos principais conceitos.
 
-## 📂 Projetos em Prolog
+## 📂 Projetos em C#
 <p>Este repositório contém os seguintes projetos implementados em <b>Prolog</b></p>
-<li>checkers.pl</li>
-<li>chess.pl</li>
-<li>hanoi.pl</li>
-<li>Create hanoi.pl</li>
-<li>sudoku.pl</li>
-<li>tictactoe.pl</li>
-Acesse o repositório completo no <a href="https://github.com/imponateado/prologstuff" title="Github">GitHub
+<li>D3D12</li>
+<li>Infinity Space.exe</li>
+<li>Infinity Space_Data.zip</li>
+<li>MonoBleedingEdge.zip</li>
+<li>UnityCrashHandler64.exe</li>
+<li>UnityPlayer.zip</li>
+Acesse o repositório completo no <a href="https://github.com/Aladark/JOGO-.git" title="Github">GitHub
 
 ### PRÉ-REQUISITO
 ---
 1. **Navegador da Web**: Tenha um navegador instalado, como Google Chrome, Mozilla Firefox ou Safari.
-2. **Prolog**: Para executar os exemplos de código, é necessário ter um interpretador Prolog, como o SWI-Prolog.
-3. **Arquivos do Projeto**: Inclui:
-    - `index.html`: Página principal do site.
-    - `style.css`: Estilos personalizados para o site.
-    - `script.js`: Funcionalidades em JavaScript.
-    - `exemplos_prolog.pl`: Arquivo com os exemplos de código em Prolog.
-
+2. 
+3.
+    
 ## 🛣️ Como Executar o Projeto
 
 1. Clone este repositório:
@@ -59,11 +55,10 @@ git clone https://github.com/seu-usuario/seu-repositorio.git
 - **Prolog (SWI-Prolog)**: Para a lógica de programação.
 
 ## 💻 Tecnologias Utilizadas no Projeto
-- <img src="https://skillicons.dev/icons?i=html" width="30"> HTML
-- <img src="https://skillicons.dev/icons?i=css" width="30"> CSS3
-- <img src="https://skillicons.dev/icons?i=js" width="30"> JavaScript
-- <img src="https://skillicons.dev/icons?i=bootstrap" width="30"> Bootstrap
-- <img src="https://www.swi-prolog.org/download/logo/swipl-128.png" width="30"> Prolog
+- <img src="" width="30"> HTML
+- <img src="" width="30"> C#
+- <img src="" width="30"> UNITY
+
 
 Agradecemos aos desenvolvedores por sua dedicação e trabalho árduo na criação deste projeto. Seu esforço é fundamental para tornar essa ferramenta uma realidade! 😃
 
@@ -77,15 +72,11 @@ Agradecemos aos desenvolvedores por sua dedicação e trabalho árduo na criaç�
     <td align="center"><a href="https://rocketseat.com.br"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/105018263?v=4" width="100px;" alt=""/><br /><sub><b>João Lucas da Silva Dutra</b></sub></a><br /><a href="https://github.com/Kroatta" title="Rocketseat">Rgm:29842727</a></td> 	  
 </table>
 
-## 💪 Como Contribuir para o Projeto
 
-1. Faça um **fork** do projeto.
-2. Crie uma nova branch com as suas alterações: `git checkout -b my-feature`.
-3. Salve as alterações e crie uma mensagem de commit contando o que você fez: `git commit -m "feature: My new feature"`.
-4. Envie as suas alterações: `git push origin my-feature`.
 
 ## 💪 QR Code do GitHub do Projeto
-<img src="https://github.com/user-attachments/assets/904e8a56-8ea3-470e-9180-302ae155d4a9" alt="image" width="200" height="200">
+<img src="![image](https://github.com/user-attachments/assets/1e666782-7b2e-48e5-9f75-90c924ec1873)
+" alt="image" width="200" height="200">
 
 
 
