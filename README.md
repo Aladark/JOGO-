@@ -38,10 +38,10 @@ Acesse o repositório completo no <a href="https://github.com/Aladark/JOGO-.git"
     
 ## 🛣️ Como Executar o Projeto
 
-1. Clone este repositório:
-git clone https://github.com/seu-usuario/seu-repositorio.git
-2. Abra o arquivo `index.html` no navegador para visualizar o site.
-3. Para rodar os exemplos de Prolog, use o SWI-Prolog:
+
+
+1. Abra o arquivo `index.html` no navegador para visualizar o site.
+2. Para rodar os exemplos de Prolog, use o SWI-Prolog:
 
 ## Interagindo com o Projeto
 
@@ -50,9 +50,9 @@ git clone https://github.com/seu-usuario/seu-repositorio.git
 - Utilize o SWI-Prolog para testar as soluções propostas.
 
 ## 📚 Bibliotecas e Tecnologias Utilizadas
-- **Bootstrap**: Para o design responsivo.
-- **HTML/CSS/JavaScript**: Construção do site.
-- **Prolog (SWI-Prolog)**: Para a lógica de programação.
+
+- **UNity**: Construção do desgin do jogo.
+- **C#**: Para a lógica de eventos para o jogo.
 
 ## 💻 Tecnologias Utilizadas no Projeto
 - <img src="" width="30"> HTML
@@ -76,7 +76,7 @@ Agradecemos aos desenvolvedores por sua dedicação e trabalho árduo na criaç�
 
 ## 💪 QR Code do GitHub do Projeto
 <img src="![image](https://github.com/user-attachments/assets/1e666782-7b2e-48e5-9f75-90c924ec1873)
-" alt="image" width="200" height="200">
+" alt="Captura de tela.png" width="200" height="200">
 
 
 
