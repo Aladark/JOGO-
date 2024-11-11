@@ -50,9 +50,9 @@ Acesse o repositório completo no <a href="https://github.com/Aladark/JOGO-.git"
 - **C#**: Para a lógica de eventos para o jogo.
 
 ## 💻 Tecnologias Utilizadas no Projeto
-- <img src="https://www.flaticon.com/free-icon/html_1051277" width="30"> HTML
-- <img src="https://cloud.google.com/cpp?hl=pt-br" width="30"> C#
-- <img src="https://unity.com/pt" width="30"> UNITY
+-  HTML
+-  C#
+-  UNITY
 
 
 
@@ -64,10 +64,3 @@ Acesse o repositório completo no <a href="https://github.com/Aladark/JOGO-.git"
 
 ---
 
-## 🧙‍♂️ Autor
-
-<a href="">
-<img style="border-radius: 50%;" src="" width="100px;" alt=""/>
-<br />
-
----
