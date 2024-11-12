@@ -67,10 +67,14 @@ LinK do Site:"https://paradigma-evento-cbhs.vercel.app/"
 
 ## 🧙‍♂️ Autorres
 <table>
-  <td align="center"><a href="https://rocketseat.com.br"><img style="border-radius: 30%;" src="https://avatars.githubusercontent.com/u/106283911?…00&u=5a01aae0bb583d5fd77b76bdf17b2adf32e1e4ea&v=4" alt=""/><br /><sub><b> FRANCISCO ALANO </b></sub></a><br /><a href="https://https://github.com/Aladark" title="Rocketseat">Rgm:31167420</a></td>
-    <td align="center"><a href="https://rocketseat.com.br"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/94412108?v=4" width="100px;" alt=""/> FELIPE MATHEUS <br /><sub><b></b></sub></a><br /><a href="" title="Rocketseat">Rgm:36100986</a></td>
-    <td align="center"><a href="https://rocketseat.com.br"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/121394735?v=4" width="100px;" alt=""/> KAUAN <br /><sub><b></b></sub></a><br /><a href="" title="Rocketseat">Rgm:31677711</a></td>
-    <td align="center"><a href="https://rocketseat.com.br"><img style="border-radius: 50%;" src="" width="100px;" alt=""/><br /><sub><b></b></sub></a><br /><a href="" title="Rocketseat">Rgm:</a></td>
+  <td align="center"><a href="https://rocketseat.com.br"><img style="border-radius: 30%;" src="https://avatars.githubusercontent.com/u/106283911?…00&u=5a01aae0bb583d5fd77b76bdf17b2adf32e1e4ea&v=4" alt=""/><br /><sub>
+<b> FRANCISCO ALANO </b></sub></a><br /><a href="https://https://github.com/Aladark" title="Rocketseat">Rgm:31167420</a></td>
+    <td align="center"><a href="https://rocketseat.com.br"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/94412108?v=4" width="100px;" alt=""/> 
+  FELIPE MATHEUS <br /><sub><b></b></sub></a><br /><a href="" title="Rocketseat">Rgm:36100986</a></td>
+    <td align="center"><a href="https://rocketseat.com.br"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/121394735?v=4" width="100px;" alt=""/> 
+	KAUAN <br /><sub><b></b></sub></a><br /><a href="" title="Rocketseat">Rgm:31677711</a></td>
+    <td align="center"><a href="https://rocketseat.com.br"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/99230215?v=4" width="100px;" alt=""/> 
+  LUCAS <br /><sub><b></b></sub></a><br /><a href="" title="Rocketseat">Rgm:29118000</a></td>
     <td align="center"><a href="https://rocketseat.com.br"><img style="border-radius: 50%;" src="" width="100px;" alt=""/><br /><sub><b></b></sub></a><br /><a href="" title="Rocketseat">Rgm:</a></td>
     <td align="center"><a href="https://rocketseat.com.br"><img style="border-radius: 50%;" src="" width="100px;" alt=""/><br /><sub><b></b></sub></a><br /><a href="" title="Rocketseat">Rgm:</a></td> 	
 </table>
