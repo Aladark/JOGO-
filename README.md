@@ -63,7 +63,7 @@ O projeto explora a programação eventos  e a utilização do C# em um jogo de 
 
 Link do Git link:"https://github.com/Aladark/JOGO-.git".
 
-LinK do Site:
+LinK do Site:"https://paradigma-evento-cbhs.vercel.app/"
 
 ## 🧙‍♂️ Autorres
 <table>
