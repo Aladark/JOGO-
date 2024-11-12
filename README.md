@@ -65,7 +65,7 @@ Link do Git link:"https://github.com/Aladark/JOGO-.git".
 
 LinK do Site:"https://paradigma-evento-cbhs.vercel.app/"
 
-## 🧙‍♂️ Autorres
+## 🧙‍♂️ Autores
 <table>
   <td align="center"><a href="https://rocketseat.com.br"><img style="border-radius: 30%;" src="https://avatars.githubusercontent.com/u/106283911?…00&u=5a01aae0bb583d5fd77b76bdf17b2adf32e1e4ea&v=4" alt=""/><br /><sub>
 <b> FRANCISCO ALANO </b></sub></a><br /><a href="https://https://github.com/Aladark" title="Rocketseat">Rgm:31167420</a></td>
