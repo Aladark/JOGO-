@@ -65,6 +65,15 @@ Link do Git link:"https://github.com/Aladark/JOGO-.git".
 
 LinK do Site:
 
+## 🧙‍♂️ Autorres
+<table>
+  <td align="center"><a href="https://rocketseat.com.br"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/125497324?v=4" width="100px;" alt=""/><br /><sub><b>Francisco Alano</b></sub></a><br /><a href="https://https://github.com/Aladark" title="Rocketseat">Rgm: 31167420</a></td>
+    <td align="center"><a href="https://rocketseat.com.br"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/105023718?s=400&u=2acd860cb7b8e36135c22717a860c413e2d02eb4&v=4" width="100px;" alt=""/><br /><sub><b>Danilo Silva</b></sub></a><br /><a href="https://github.com/Danilo019" title="Rocketseat">Rgm:28641205</a></td>
+    <td align="center"><a href="https://rocketseat.com.br"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/107246983?v=4" width="100px;" alt=""/><br /><sub><b>Matheus Henrique</b></sub></a><br /><a href="https://github.com/teuzzin16032004" title="Rocketseat">Rgm:30228981</a></td>
+    <td align="center"><a href="https://rocketseat.com.br"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/38961152?v=4" width="100px;" alt=""/><br /><sub><b>Leonardo Silva Teodoro</b></sub></a><br /><a href="https://github.com/imponateado" title="Rocketseat">Rgm:29654009</a></td>
+    <td align="center"><a href="https://rocketseat.com.br"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/105018263?v=4" width="100px;" alt=""/><br /><sub><b>José Maria da Silva Junior</b></sub></a><br /><a href="https://github.com/Kroatta" title="Rocketseat">Rgm:29459141</a></td>
+    <td align="center"><a href="https://rocketseat.com.br"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/105018263?v=4" width="100px;" alt=""/><br /><sub><b>João Lucas da Silva Dutra</b></sub></a><br /><a href="https://github.com/Kroatta" title="Rocketseat">Rgm:29842727</a></td> 	
+</table>
 
 ---
 
