@@ -75,8 +75,8 @@ LinK do Site:"https://paradigma-evento-cbhs.vercel.app/"
 	KAUAN <br /><sub><b></b></sub></a><br /><a href="" title="Rocketseat">Rgm:31677711</a></td>
     <td align="center"><a href="https://rocketseat.com.br"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/99230215?v=4" width="100px;" alt=""/> 
   LUCAS <br /><sub><b></b></sub></a><br /><a href="" title="Rocketseat">Rgm:29118000</a></td>
-    <td align="center"><a href="https://rocketseat.com.br"><img style="border-radius: 50%;" src="" width="100px;" alt=""/><br /><sub><b></b></sub></a><br /><a href="" title="Rocketseat">Rgm:</a></td>
-    <td align="center"><a href="https://rocketseat.com.br"><img style="border-radius: 50%;" src="" width="100px;" alt=""/><br /><sub><b></b></sub></a><br /><a href="" title="Rocketseat">Rgm:</a></td> 	
+    <td align="center"><a href="https://rocketseat.com.br"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/103945425?v=4" width="100px;" alt=""/> MATHEUS <br /><sub><b></b></sub></a><br /><a href="" title="Rocketseat">Rgm:29351219</a></td>
+    <td align="center"><a href="https://rocketseat.com.br"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/104661464?v=4" width="100px;" alt=""/> GABRIEL <br /><sub><b></b></sub></a><br /><a href="" title="Rocketseat">Rgm:30259177</a></td> 	
 </table>
 
 ---
