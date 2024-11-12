@@ -67,7 +67,7 @@ LinK do Site:
 
 ## 🧙‍♂️ Autorres
 <table>
-  <td align="center"><a href="https://rocketseat.com.br"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/106283911?…00&u=0c41a5359e999cb8ba2401f1756ccc4f09022bba&v=4" width="100px;" alt=""/><br /><sub><b>Francisco Alano</b></sub></a><br /><a href="https://https://github.com/Aladark" title="Rocketseat">Rgm: 31167420</a></td>
+  <td align="center"><a href="https://rocketseat.com.br"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/106283911?…00&u=5a01aae0bb583d5fd77b76bdf17b2adf32e1e4ea&v=4" alt=""/><br /><sub><b>Francisco Alano</b></sub></a><br /><a href="https://https://github.com/Aladark" title="Rocketseat">Rgm: 31167420</a></td>
     <td align="center"><a href="https://rocketseat.com.br"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/105023718?s=400&u=2acd860cb7b8e36135c22717a860c413e2d02eb4&v=4" width="100px;" alt=""/><br /><sub><b>Danilo Silva</b></sub></a><br /><a href="https://github.com/Danilo019" title="Rocketseat">Rgm:28641205</a></td>
     <td align="center"><a href="https://rocketseat.com.br"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/107246983?v=4" width="100px;" alt=""/><br /><sub><b>Matheus Henrique</b></sub></a><br /><a href="https://github.com/teuzzin16032004" title="Rocketseat">Rgm:30228981</a></td>
     <td align="center"><a href="https://rocketseat.com.br"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/38961152?v=4" width="100px;" alt=""/><br /><sub><b>Leonardo Silva Teodoro</b></sub></a><br /><a href="https://github.com/imponateado" title="Rocketseat">Rgm:29654009</a></td>
