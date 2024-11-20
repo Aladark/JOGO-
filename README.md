@@ -42,10 +42,11 @@ O projeto explora a programação eventos  e a utilização do C# em um jogo de 
 4. ** tendo termidado a extraçaõ de arquivos o proxima parte seria apenas excluir suas verções zip e depois iniciar o jogo que seira o arquivo .exe** 
 
 
-## Interagindo com o Projeto
+## REGRAS DO JOGO 
 
-- Navegue pelo site para aprender sobre o paradigma Eventos.
-- Experimente o Jogo de paradigma orientado a Eventos .
+- O jogo utiliza as setas do teclado para movimentar a nave: seta para a direita para ir para a direita, seta para a esquerda para ir para a esquerda e as setas para cima e para baixo para se mover verticalmente.
+
+- Neste jogo, utilizamos a tecla de espaço para disparar com a nave. Também temos buffs para o jogador, como escudo, restauração de vida e disparo duplo. O objetivo deste jogo é que o jogador consiga acumular a maior pontuação possível antes de morrer.
 
 ## 📚 Bibliotecas e Tecnologias Utilizadas
 
